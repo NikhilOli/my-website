@@ -1,0 +1,33 @@
+Lab 9: Reflection Task
+1. What is Git and why is it important?
+
+Git is a tool that helps keep track of changes made to code. It lets you go back to older versions if something breaks and helps multiple people work on the same project without messing up each other’s work. It’s important because it keeps everything organized and safe while coding.
+
+2. Difference between git add, git commit, and git push
+
+git add – tells Git which files you want to include in your next save.
+
+git commit – saves those changes in your local project with a message.
+
+git push – sends your saved changes to GitHub so others can see them.
+
+3. What is a branch? Why do developers use it?
+
+A branch is like a separate copy of your project where you can make changes safely. Developers use branches to work on new features or fixes without changing the main project. Once everything works fine, the branch can be merged back into the main code.
+
+4. What command shows the commit history?
+
+The command is:
+
+git log
+
+
+It shows all the commits made, along with messages and dates.
+
+5. What was the most challenging part of this lab?
+
+The hardest part for me was dealing with merge conflicts when trying to combine different branches. It was a bit confusing at first, but I got the hang of it after practicing.
+
+6. What skill did you gain that will help in future projects?
+
+I learned how to use Git and GitHub to manage code and work with others. This will really help me in team projects and when working on larger codebases in the future.
